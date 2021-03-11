@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-6-lesson/static/css/main.ae5265af.chunk.css",
+    "main.js": "/react-6-lesson/static/js/main.1419ebc0.chunk.js",
+    "main.js.map": "/react-6-lesson/static/js/main.1419ebc0.chunk.js.map",
+    "runtime-main.js": "/react-6-lesson/static/js/runtime-main.874bb945.js",
+    "runtime-main.js.map": "/react-6-lesson/static/js/runtime-main.874bb945.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/react-6-lesson/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.90f3dba6.chunk.js": "/react-6-lesson/static/js/2.90f3dba6.chunk.js",
+    "static/js/2.90f3dba6.chunk.js.map": "/react-6-lesson/static/js/2.90f3dba6.chunk.js.map",
+    "index.html": "/react-6-lesson/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/react-6-lesson/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.ae5265af.chunk.css.map": "/react-6-lesson/static/css/main.ae5265af.chunk.css.map",
+    "static/js/2.90f3dba6.chunk.js.LICENSE.txt": "/react-6-lesson/static/js/2.90f3dba6.chunk.js.LICENSE.txt",
+    "static/media/add.b32f3a09.svg": "/react-6-lesson/static/media/add.b32f3a09.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.874bb945.js",
+    "static/css/2.de71bbd8.chunk.css",
+    "static/js/2.90f3dba6.chunk.js",
+    "static/css/main.ae5265af.chunk.css",
+    "static/js/main.1419ebc0.chunk.js"
+  ]
+}
